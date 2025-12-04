@@ -1,0 +1,5 @@
+{
+  "name": "Precio del Dolar",
+  "description": "Monitor de cotizaciones del dólar en Argentina con análisis de mercado impulsado por IA.",
+  "requestFramePermissions": []
+}
