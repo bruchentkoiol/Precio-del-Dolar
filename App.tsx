@@ -3,7 +3,6 @@ import { fetchRates } from './services/dolarService';
 import { DolarQuote, QuoteType } from './types';
 import QuoteCard from './components/QuoteCard';
 import Converter from './components/Converter';
-import MarketAnalysis from './components/MarketAnalysis';
 import ComparisonChart from './components/ComparisonChart';
 import TabSelector from './components/TabSelector';
 import ExchangeBands from './components/ExchangeBands';
